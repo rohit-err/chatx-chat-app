@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: ["https://chatx-chat-app-beta.vercel.app"], // Add your Vercel URL
+    origin: ["https://chatx-chat-app-beta.vercel.app"], 
     credentials: true,
   })
 );

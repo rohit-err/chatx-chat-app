@@ -3,7 +3,7 @@ import { FaGithub } from "react-icons/fa";
 const GitHubFloatingButton = () => {
   return (
     <a
-      href="https://github.com/rohit-err/chatx-chat-app" // replace with your repo
+      href="https://github.com/rohit-err/chatx-chat-app" 
       target="_blank"
       rel="noopener noreferrer"
       className="fixed right-2 bottom-4 z-50 tooltip tooltip-left"

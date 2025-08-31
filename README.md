@@ -30,7 +30,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/rohit-err/ChatX.git
+git clone https://github.com/rohit-err/chatx-chat-app.git
 cd ChatX
 ```
 

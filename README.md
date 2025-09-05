@@ -6,22 +6,22 @@
 
 ## 🌟 Features
 
-- User authentication with JWT (signup & login)
-- Real-time messaging using Socket.io
-- Online user status
-- Profile management (update info and avatar)
-- Global state management with Zustand
-- Responsive UI with TailwindCSS & DaisyUI
+* User authentication with JWT (signup & login)
+* Real-time messaging using Socket.io
+* Online user status
+* Profile management (update info and avatar)
+* Global state management with Zustand
+* Responsive UI with TailwindCSS & DaisyUI
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TailwindCSS, DaisyUI, Zustand
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Real-time Communication:** Socket.io
-- **Authentication:** JWT
+* **Frontend:** React, TailwindCSS, DaisyUI, Zustand
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Real-time Communication:** Socket.io
+* **Authentication:** JWT
 
 ---
 
@@ -86,3 +86,9 @@ ChatX/
 ## 📌 License
 
 This project is **MIT licensed**.
+
+---
+
+## Author
+
+Made with ❤️ by rohit-err

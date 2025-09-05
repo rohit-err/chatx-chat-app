@@ -89,6 +89,7 @@ This project is **MIT licensed**.
 
 ---
 
-## Author
+## 👤 Author
+Made with ❤️ by [rohit-err](https://github.com/rohit-err)
 
-Made with ❤️ by rohit-err
+
